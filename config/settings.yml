@@ -1,0 +1,7 @@
+plugins:
+  tiles_enabled:
+    default: true
+    client: true
+  tiles_quote_url:
+    default: ""
+    client: true

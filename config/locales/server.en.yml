@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    tiles_enabled: "Enable tiles"
+    tiles_quote_url: "What is the URL of your Quote Category? (e.g. /t/quotes/29.json)"
