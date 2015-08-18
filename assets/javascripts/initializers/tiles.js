@@ -8,7 +8,7 @@ Discourse.PageTracker.current().on('change', function(url) {
     // var quoteURL = this.siteSettings.tiles_quote_url;
     if(c){
         if(!createdTiles){
-          createTiles('/t/quote-1-testing/29.json');
+          createTiles('/t/game-quotes/325.json');
           // console.log(quoteURL);
           // createTiles(quoteURL);
         }
